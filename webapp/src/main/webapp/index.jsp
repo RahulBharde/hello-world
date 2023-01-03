@@ -8,7 +8,7 @@ I    <h1>New user Register for DevOps Learning</h1>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br>
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>iphone number</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
      <br>
