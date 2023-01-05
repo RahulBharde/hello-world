@@ -31,7 +31,7 @@ I    <h1>New user Register for DevOps Learning</h1>
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-<h1> Thankyou , HAPPY  </h1>
+<h1> Thankyou , HAPPY LEARNING  </h1>
 
   
 </form>
